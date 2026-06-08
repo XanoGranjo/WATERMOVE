@@ -1,2 +1,0 @@
-# WATERMOVE
-Academic Project 
